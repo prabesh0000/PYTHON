@@ -11,7 +11,7 @@ print(len(t))
 
 t1=(6,7,8,)
 
-print(t +t1) 
+print(t + t1) 
 
 print (t*3 )
 

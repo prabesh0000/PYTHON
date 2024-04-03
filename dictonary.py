@@ -12,6 +12,7 @@ print(d.items())
 
 d["mango"]=50
 
+# value can be changed
 
 d["apple"]=100
 
